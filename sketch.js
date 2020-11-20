@@ -12,12 +12,12 @@ var man;
 
 function preload()
 {
-	thunder_Img1 = loadImage("../images/thunderbolt/1.png");
-	thunder_Img2 = loadImage("../images/thunderbolt/2.png");
-	thunder_Img3 = loadImage("../images/thunderbolt/3.png");
-	thunder_Img4 = loadImage("../images/thunderbolt/4.png");	
+	thunder_Img1 = loadImage("images/thunderbolt/1.png");
+	thunder_Img2 = loadImage("images/thunderbolt/2.png");
+	thunder_Img3 = loadImage("images/thunderbolt/3.png");
+	thunder_Img4 = loadImage("images/thunderbolt/4.png");	
 
-	walk_Img = loadAnimation("../images/WalkingFrame/walking_1.png","../images/WalkingFrame/walking_2.png","../images/WalkingFrame/walking_3.png");
+	walk_Img = loadAnimation("images/WalkingFrame/walking_1.png","images/WalkingFrame/walking_2.png","images/WalkingFrame/walking_3.png");
 }
 
 function setup() {
